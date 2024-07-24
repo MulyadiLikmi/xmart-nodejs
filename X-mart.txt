@@ -1,0 +1,8 @@
+https://docs.google.com/spreadsheets/d/1m1NMlS5Cx2OBOWvRhot4rPhuGap3LOGVMw_5Ywrhejo/edit?usp=sharing
+
+Penjelasan singkat nya mengadopsi teknology JD ID XMart / Amazon Go : https://www.youtube.com/watch?v=jcwCW4Fuejg
+
+Ini contoh yg sudah selesai ya akang dan teteh : 
+https://medium.com/@andimuhammad.rizky01/mini-project-x-mart-dengan-menerapkan-stack-react-js-express-js-java-spring-boot-dan-teknologi-fb614a2a42fd 
+
+https://www.linkedin.com/pulse/integrating-firebase-push-notifications-angular-dhiki-fauzan-xijic/

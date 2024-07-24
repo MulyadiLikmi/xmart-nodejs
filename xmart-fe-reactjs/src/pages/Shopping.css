@@ -1,0 +1,29 @@
+.shopping-page {
+  display: flex;
+}
+
+.left-panel,
+.right-panel {
+  flex: 1;
+  padding: 20px;
+}
+
+.left-panel {
+  border-right: 1px solid #ddd;
+}
+
+.right-panel {
+  padding: 20px;
+}
+
+#reader {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.right-panel img {
+  display: block;
+  margin: 10px 0;
+}
